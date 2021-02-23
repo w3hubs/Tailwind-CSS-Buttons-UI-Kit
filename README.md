@@ -1,6 +1,8 @@
 ## ✨ Tailwind CSS Buttons UI Kit
 Tailwind CSS is a modern CSS framework that is for rapid UI development with awesome component and utility classes. So here we made simple Buttons UI Kit in Tailwind CSS with the help of utility classes.
 
+![Algorithm schema](https://w3hubs.com/ptoosecu/2021/02/Tailwind-CSS-Buttons-UI-Kit-1024x592.png)
+
 ## ⚙️ Installation
 ```sh
 npm i 
