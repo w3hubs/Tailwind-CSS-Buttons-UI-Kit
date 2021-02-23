@@ -5,7 +5,7 @@ Tailwind CSS is a modern CSS framework that is for rapid UI development with awe
 
 ## ⚙️ Installation
 ```sh
-npm i tailwindcssbuttonsuikit
+npm i tailwindcssbuttonsuikits
 
 ```
 ## ⚙️ Use
